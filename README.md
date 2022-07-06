@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 개발자가 되고 싶은 청년
+## 청년의 개발이야기
