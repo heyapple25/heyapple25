@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ---
 
 - 관심있는 것
-Ai, 게임개발 등등..
+<br>Ai, 게임개발 등등..
