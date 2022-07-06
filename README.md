@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 청년의 개발이야기
+---
+
+- 관심있는 것
+Ai, 게임개발 등등..
